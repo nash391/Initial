@@ -1,0 +1,29 @@
+what things to discuss in BOM sync?
+Question: what needs to be done for the app variant?
+prep for planning meeting
+laptop and headphone order
+book tickets
+Learn chrome web tools
+GTM
+continue with spring boot
+compile and create reasoning material
+release BOM editors
+maintain IFR for UX topics with UX marked in it
+kleppman on saving to db?
+check non-stock item category for service item
+check - https://wiki.one.int.sap/wiki/display/fiorisuite/Extensibility+Information+in+Documentation 
+what is search connector information in bom editor
+what is installation details - https://i7p.wdf.sap.corp/sap(bD1lbiZjPTAwMQ==)/support/bundle/index.html#solution/bundles?id=77838200190100001290 
+take riya's psych appointment
+writing excuses
+bulk incident creation
+prepare for backlog grooming
+find hotels and book movie tickets for 7th dec
+book return tickets from banagalore
+find out and book good doc for c-reactive protien
+all realease backlogs in ready state
+learn excel
+create delivery units and increments for CFD 2302.1
+assign pascal insident to correct portfolio epic
+try connecting to JIRA api and create a JIRA programatically - roadmap - manage the JIRAs fast.
+JIRA project: running the same commands in gateway client
